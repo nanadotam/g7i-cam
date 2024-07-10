@@ -70,6 +70,9 @@ An iOS app that mimics the look and feel of the Canon G7X, with advanced image p
 - Regular updates based on user feedback and new iOS features
 - Adding new features and improvements
 
+## Resources
+- [Camera Kit Github](https://github.com/CameraKit/camerakit-ios)
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests.
 
